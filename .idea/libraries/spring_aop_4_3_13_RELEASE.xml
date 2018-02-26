@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="spring-aop-4.3.13.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-aop-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-aspects-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-beans-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-context-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-context-support-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-core-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-expression-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-jdbc-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-orm-4.3.13.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

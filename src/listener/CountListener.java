@@ -20,7 +20,6 @@ public class CountListener implements HttpSessionListener {
     @Override
     public void sessionDestroyed(HttpSessionEvent httpSessionEvent) {
         System.out.println("-----------CountListener  sessionDestroyed-------------");
-
         count--;
         handleSession(httpSessionEvent);
     }

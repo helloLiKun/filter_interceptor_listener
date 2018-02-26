@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="spring-web-4.3.13.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-web-4.3.13.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/interceptor/web/WEB-INF/lib/spring-webmvc-4.3.13.RELEASE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
