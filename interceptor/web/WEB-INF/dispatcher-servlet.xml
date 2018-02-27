@@ -7,7 +7,11 @@
     <mvc:annotation-driven/>
     <mvc:interceptors>
         <mvc:interceptor>
+            <!-- 拦截的请求 -->
             <mvc:mapping path="/**"/>
+            <!-- 不拦截的请求 -->
+            <mvc:exclude-mapping path="/hello"/>
+            <!-- 拦截器所在类路径 -->
             <bean class="interceptors.MyInterceptor"></bean>
         </mvc:interceptor>
     </mvc:interceptors>

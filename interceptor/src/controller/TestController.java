@@ -13,4 +13,8 @@ public class TestController {
         return "TEST  SUCCESS";
     }
 
+    @RequestMapping("/hello")
+    public String hello(){
+        return "TEST  HELLO";
+    }
 }

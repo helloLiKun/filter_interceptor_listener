@@ -6,10 +6,11 @@
     <!--
     spring的mvc模块中有拦截器intercept相关的api;j2ee中有Filter类(过滤器)和Listener类(监听器)。
     -->
+
+    <!--引入spring配置文件，如果单纯的springmvc架构，可以不要，配置于dispather-servlet.xml即可-->
     <!--<listener>-->
         <!--<listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>-->
     <!--</listener>-->
-    <!--&lt;!&ndash;配置Spring配置文件的位置  &ndash;&gt;-->
     <!--<context-param>-->
         <!--<param-name>contextConfigLocation</param-name>-->
         <!--<param-value>classpath:applicationContext.xml</param-value>-->
