@@ -8,7 +8,7 @@
     <mvc:interceptors>
         <mvc:interceptor>
             <mvc:mapping path="/**"/>
-            <bean class="interceptor.MyInterceptor"></bean>
+            <bean class="interceptors.MyInterceptor"></bean>
         </mvc:interceptor>
     </mvc:interceptors>
 
